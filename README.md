@@ -68,10 +68,3 @@ Este projeto explora o uso de interrupções no microcontrolador RP2040, impleme
 ## Demonstração do Projeto
 Confira o funcionamento do projeto no seguinte vídeo: [YouTube](https://youtu.be/mHMIAnvlU1A)
 
-## Licença
-Este projeto é distribuído sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
-
----
-
-Autor: **Gabriel**
-
